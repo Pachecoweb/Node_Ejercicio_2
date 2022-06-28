@@ -1,0 +1,25 @@
+{
+  "name": "homework_2",
+  "version": "1.0.0",
+  "description": "Tarea#2 acerca de las bases del lenguaje de javascript ",
+  "main": "index2.js",
+  "scripts": {
+    "homeworkTwo": "node indextarea2.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pachecoweb/Node_Ejercicio_1.git"
+  },
+  "keywords": [
+    "Variables",
+    "sintaxis",
+    "palabrasReservadas"
+  ],
+  "author": "Diego Pacheco Baca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pachecoweb/Node_Ejercicio_1/issues"
+  },
+  "homepage": "https://github.com/Pachecoweb/Node_Ejercicio_1#readme"
+}
